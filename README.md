@@ -43,9 +43,9 @@ Como freelancer, ajudo empresas e profissionais a ter uma presença digital impa
 
 Aqui estão alguns dos meus trabalhos que você pode explorar. Visite os links para ver os projetos ao vivo!
 
-#### **1. [Site desenvolvido para a empresa ChagasLoc Construtora.]**
+#### **1. Site desenvolvido para a empresa ChagasLoc Construtora.**
 
-* **Descrição:**  [Eu juntamente com a minha equipe da empresa codecrat desenvolvemos um site para facilitar e expandir o aluguel de máquinas para uma construtora de equipamentos para construções civil, com o trabalho em equipe em menos de 2 semanas entregamos o site com domínio e hospedado pronto para transforma acessos em clientes."]
+* **Descrição:**  Eu juntamente com a minha equipe da empresa codecrat desenvolvemos um site para facilitar e expandir o aluguel de máquinas para uma construtora de equipamentos para construções civil, com o trabalho em equipe em menos de 2 semanas entregamos o site com domínio e hospedado pronto para transforma acessos em clientes."
 * **Tecnologias:** [ Utilizamos tecnologias do Desenvolvimento Web e um pouco de back-end: `HTML`, `CSS`, `JavaScript`, `Node.js`]
 * **Veja Online:** [Site da Construtora e locadora](https://chagasloc.com.br)
 * **Código no GitHub:** [Link para o repositório deste projeto no GitHub](https://github.com/CaikeM10/eng_loc)
@@ -53,7 +53,7 @@ Aqui estão alguns dos meus trabalhos que você pode explorar. Visite os links p
 
 ---
 
-#### **2. [Site desenvolvido para a plataforma de cursos Ensino Inteligente]**
+#### **2. Site desenvolvido para a plataforma de cursos Ensino Inteligente]**
 
 * **Descrição:** [Desenvolvi um site web para a Ensino Inteligente no qual demostro o seu conteúdo, resultados, botões que levam ao whatssap e uma platforma de cursos externos usando API, entre outros. Site responsivo ajustado para funcionar em desktop e mobile, moderno e otimizado para SEO."]
 * **Tecnologias:** [ Utilizei tecnologias do Desenvolvimento Web, designer e um pouco de back-end: `HTML`, `CSS`, `JavaScript`, `Node.js`,`Adobe Photoshop`]
@@ -62,9 +62,7 @@ Aqui estão alguns dos meus trabalhos que você pode explorar. Visite os links p
 
 
 ---
-## **3. [Site desenvolvido para a empresa de tecnologia CodeCrat]**
-
-### Vamos Construir Algo Incrível Juntos!
+## **3. Site desenvolvido para a empresa de tecnologia CodeCrat**
 
 **Descrição:** ["Participei do desenvolvimento de um site para uma empresa de tecnologia da informação, no qual expressei minhas ideias e apliquei metodologias ágeis, para o andamento do projeto."]
 **Tecnologias:** [ Utilizamos tecnologias do Desenvolvimento Web e um pouco de back-end: `HTML`, `CSS`, `JavaScript`, `Node.js`,`Adobe Photoshop`]
