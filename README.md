@@ -74,7 +74,7 @@ Se você busca um desenvolvedor web proativo e dedicado para transformar suas id
 
 * 📧 **Email:** [caikemarinho150@gmail.com](mailto:caikemarinho150@gmail.com)
 * 🔗 **LinkedIn:** [Perfil Linkedin](https://www.linkedin.com/in/caikemarinho/)
-* 🌐 **Portfólio/Website Pessoal:** [Saiba mais e descubra mais serviços](https://caikemarinho.com)
+* 🌐 **Portfólio/Website Pessoal:** [Saiba mais e descubra mais serviços](https://www.caikemarinho.com))
 * 📲 Entre em contato comigo!  [WhatsApp](https://wa.me/5588999172635) 
 
 ---
