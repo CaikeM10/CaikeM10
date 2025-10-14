@@ -66,8 +66,8 @@ Aqui estão alguns dos meus trabalhos que você pode explorar. Visite os links p
 
 **Descrição:** Participei do desenvolvimento de um site para uma empresa de tecnologia da informação, no qual expressei minhas ideias e apliquei metodologias ágeis, para o andamento do projeto."
 **Tecnologias:**  Utilizamos tecnologias do Desenvolvimento Web e um pouco de back-end: `HTML`, `CSS`, `JavaScript`, `Node.js`,`Adobe Photoshop`]
-* **Veja Online:** Link para o site da CodeCrat](https://codecrat.com.br)
-* **Código no GitHub:** Link para o repositório deste projeto no GitHub](https://github.com/CaikeM10/site-code_crat)
+* **Veja Online:** Link para o site da CodeCrat (https://codecrat.com.br)
+* **Código no GitHub:** Link para o repositório deste projeto no GitHub (https://github.com/CaikeM10/site-code_crat)
 
 
 Se você busca um desenvolvedor web proativo e dedicado para transformar suas ideias em realidade, ficarei feliz em conversar.
